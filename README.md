@@ -7,21 +7,11 @@
 </p>
 
 <h2 align="center">
-  Tools & Skills
+  Tools & Skills I'm Exploring
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cpp,py,vscode,md,linux,kali,bash,discord,docker,mysql,flask&perline=7" />
-</p>
-
-
-<h2 align="center">
-  這人因為重構使用者名稱，正在修復中...
-</h2>
-
-<p align="center"
-   style="font-weight: bold;">
-  <b>正在修復中...</b>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,vuejs,pinia,tailwindcss,html,css,javascript,typescript,react,flask,vite,golang,php,python,cpp,markdown,nginx,docker,git,bash,figma,linux,ubuntu,discord,github,cloudflare,vscode&theme=dark&perline=9" alt="My Skills" /></a>
 </p>
 
 <!-- 
