@@ -14,6 +14,10 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,vuejs,pinia,tailwindcss,html,css,javascript,typescript,react,flask,vite,golang,php,python,cpp,markdown,nginx,docker,git,bash,figma,linux,ubuntu,discord,github,cloudflare,vscode&theme=dark&perline=9" alt="My Skills" /></a>
 </p>
 
+<p align="center">
+  <a href="https://gitroll.io/profile/uTmlr31gGn3YMbVfLGFUVxRoQAWF3" target="_blank"><img style="width: 540px;" src="https://gitroll.io/api/badges/profiles/v1/uTmlr31gGn3YMbVfLGFUVxRoQAWF3?theme=nord" alt="GitRoll Profile Badge"/></a>
+</p>
+
 <!-- 
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
